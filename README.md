@@ -1,2 +1,31 @@
-# Blog-platform-with-comments
-**Blog Platform with Comments** is a full-stack web application where users can register, log in, create, edit, and delete blog posts, and add comments. Built with React.js, Node.js, Express.js, and MongoDB, it uses JWT authentication and RESTful APIs for secure content management.
+# Blog Platform with Comments
+A full-stack blogging application built using the MERN Stack.
+
+## Features
+- User Authentication (JWT)
+- Create/Edit/Delete Blogs
+- Comment System
+- MongoDB Database
+- REST APIs
+- Responsive UI
+
+## Tech Stack
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- JWT
+- Bootstrap/CSS
+
+## Installation
+
+git clone <repository-url>
+cd server
+npm install
+npm start
+cd client
+npm install
+npm start
+
+## Author
+Charumathi P
