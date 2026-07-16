@@ -1,0 +1,5 @@
+POST /api/comments/:blogId
+
+GET /api/comments/:blogId
+
+DELETE /api/comments/:id
