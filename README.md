@@ -18,7 +18,6 @@ A full-stack blogging application built using the MERN Stack.
 - Bootstrap/CSS
 
 ## Installation
-
 git clone <repository-url>
 cd server
 npm install
